@@ -1,4 +1,4 @@
-import { Viaje } from "../Models/Viaje.js";
+import { Viaje } from "../models/Viaje.js";
 import {Testimonial} from "../models/Testimoniales.js";
 
 const paginaInicio = async (request,response)=>{ //Request: lo que enviamos y response: Lo que express nos responde
